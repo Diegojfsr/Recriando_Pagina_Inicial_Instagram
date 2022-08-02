@@ -1,6 +1,6 @@
 <h1> Sejam bem-vindos!!! </h1>
-Esse é o meu Repositório do projeto: <br>
-Recriando a página inicial do Instagram. 
+<h2> Esse é o meu Repositório do projeto: 
+Recriando a página inicial do Instagram. </h2>
 
 <h4> 
 Repositório criado para documentar todo o meu passo a passo, projetos e codigos desenvolvidos durante o processo de formação e recrutamento pelo programa Santander Bootcamp Fullstack Developer. 
